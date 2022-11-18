@@ -1,0 +1,9 @@
+button{
+    background-color: black;
+    color: white;
+}
+
+button:nth-of-type(2){
+    background-color: yellow;
+    color: black;
+}

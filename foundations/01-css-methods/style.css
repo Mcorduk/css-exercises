@@ -1,0 +1,12 @@
+p, div{
+    color: white;
+}
+
+div{
+    background-color: red;
+    font-size: large;
+}
+
+p{
+    background-color: green;
+}
