@@ -1,0 +1,21 @@
+figure {
+    display: inline-block;
+    width: min-content;
+    padding: 8px;
+    border: 1px solid;
+    margin-bottom: 32px;
+
+   
+  }
+  
+  figure img {
+    width: 100%;
+    
+    margin-bottom: 8px;
+  }
+  
+  figcaption {
+    text-align: center;
+    color: #666666;
+    max-width: fit-content;
+  }
