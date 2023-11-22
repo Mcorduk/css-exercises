@@ -22,3 +22,20 @@ aside {
   border: 2px solid;
   padding: 16px;
 }
+
+article > p a {
+  color: deeppink;
+  text-decoration: none;
+}
+
+article > p a:hover {
+  text-decoration: underline;
+}
+
+aside a {
+  color: black;
+}
+
+aside a:hover {
+  text-decoration: none;
+}
