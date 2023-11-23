@@ -10,6 +10,21 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin: auto;
+  max-width: fit-content;
+}
+
+.garden {
+  display: flex;
+  justify-content: center;
+  padding-top: 28px;
+  gap: 52px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
